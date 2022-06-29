@@ -1,0 +1,2 @@
+- 👋 Olá,eu sou **@anapagnO** 
+- 👀 Estou aprendendo a programar jogos no scracth e JavaScript 
